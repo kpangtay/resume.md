@@ -1,61 +1,48 @@
-## Connor Jessup
+## Katherine Pangtay
 
-jessupcn@gmail.com  
-(248) 660-6584  
+kpangtay@gmail.com  
+214-415-3831
 New York, NY  
-[Github](github.com/Jessupcn) | [LinkedIn](linkedin.com/in/connor-jessup/)
+[Github](github.com/kpangtay) | [LinkedIn](linkedin.com/in/kpangtay/)
 
 ## Technologies:
 
-**Proficient:** JavaScript, Node.js, HTML, CSS, React, Redux, Express, Sequelize, Semantic UI, Git, React- Redux, React-Native, PostgreSQL, Firebase  
-**Knowledgeable:** Mocha, Chai, Bootstrap, JQuery, OAuth
-
-## Projects:
-
-**DevBook:** Senior Capstone - [Github repo](https://github.com/devbook-live/DevBook)
-
-- Collaborative web-based computer programming sandbox environment that processes multiple users’ inputs and returns results to the user(s).
-- Led the user authentication and Firebase integration, and heavily involved in React UI.
-- Tech stack: React, Firebase, Docker, JavaScript, Node.js
-
-**Mr. Mixologist:** Stackathon Project - [Github repo](https://github.com/MrMixologist)
-
-- A mobile app which allows users to input ingredients and provides cocktail recipes based on ingredients at hand through database communication.
-- Built a PostgreSQL database involving a complicated associative table to join the data tables.
-- Developed a React-Native front-end UI that accessed the database and aesthetically rendered data.
-- Tech stack: React Native, Express, JavaScript, React-Redux, Node.js, PostgreSQL, Sequelize
+**Proficient:** JavaScript, Node.js, HTML, CSS, React, Semantic UI, Git, React- Redux, Adobe Suite, Blender, Maya
+**Knowledgeable:** Express, Sequelize, PostgreSQL, three.js, Liquid, Webpack, Figma
 
 ## Experience:
 
-**Jessup Engineering Inc.**  
-Rochester Hills, MI  
-_Operations Manager_, June 2014- December 2017
+**Very Great**  
+_Front-end Developer & UI/UX Designer_, Fall 2019 - Spring 2020
 
-- Designed machine layouts for sales presentations using AutoCAD 2015 based on client specifications, continuously modifying the layouts to achieve client approval.
-- Communicated and worked cross-functionally to meet deliverables in a timely manner.
-- Created financial analysis reporting for upper management (President and Controller).
+• Created bundle, upsell, and monogramming features. 
+• Designed reusable components in React and Javascript. 
+• Experienced building, launching, and maintaining Shopify stores. 
+   Also, Shopify’s object/properties, AJAX API, and Metafields. 
+• Created user-flows, wireframes, mockups, and prototypes for various projects. 
 
-_Administrative Assistant_, Summer 2012 & Summer 2013
+**Break the Love**  
+_Front-end Developer_, Spring 2019
 
-- Calculated current machine proposal pricing for prospective customers by determining individual machine component/labor costs.
-- Dynamically updated Excel worksheets to reflect current machine costs.
-- Organized and updated employee payroll/insurance files.
+• Created bundle, upsell, and monogramming features. 
+• Designed reusable components in React and Javascript. 
+• Experienced building, launching, and maintaining Shopify stores. 
+   Also, Shopify’s object/properties, AJAX API, and Metafields. 
+• Created user-flows, wireframes, mockups, and prototypes for various projects. 
 
 ## Education:
 
-**Fullstack Academy of Code**, January 2018 - May 2018  
+**Gracehopper Program, Fullstack Academy of Code**, April 2018 - August 2018  
 _Immersive Software Engineering Bootcamp_
 
-**DePaul University**, 2016  
-_Kellstadt Graduate School of Business_  
-MS in Management
+**Texas A&M University**, 2013
+_Bachelor of Science_  
+In visualization, Graphic design, 3D animation, and Game design
 
-**University of Michigan**, 2014  
-_College of Literature, Science, and the Arts_  
-Bachelor of Science, Environmental Sciences
+
 
 ## Interests:
 
-- Running: 2016 Chicago Marathon Finisher
-- Sports
-- Traveling
+- Rock Climbing
+- Reading
+- Games
