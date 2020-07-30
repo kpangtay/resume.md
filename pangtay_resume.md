@@ -7,8 +7,8 @@ New York, NY
 
 ## Technologies:
 
-**Proficient:** JavaScript, Node.js, HTML, CSS, React, Semantic UI, Git, React- Redux, Adobe Suite, Blender, Maya
-**Knowledgeable:** Express, Sequelize, PostgreSQL, three.js, Liquid, Webpack, Figma
+**Proficient:** JavaScript, React, Redux, Liquid, HTML5, CSS3, Bootstrap, Git/Github, Node.js, Blender, Figma, Adobe Photoshop, Illustrator, After Effects, XD
+**Knowledgeable:** Express, Sequelize, PostgreSQL, three.js, Liquid, Webpack, Figma, Unity
 
 ## Experience:
 
