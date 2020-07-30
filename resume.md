@@ -3,7 +3,7 @@
 kpangtay@gmail.com  
 214-415-3831
 New York, NY  
-[Github](github.com/kpangtay) | [LinkedIn](linkedin.com/in/kpangtay/)
+[Github](https://github.com/kpangtay) | [LinkedIn](https://www.linkedin.com/in/kpangtay/)
 
 ## Technologies:
 
