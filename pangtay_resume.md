@@ -47,9 +47,9 @@ _UI Designer_, Spring 2015 - Spring 2018
 _DIGITAL DESIGNER_, Spring 2014 - Spring 2015
 
 • Designed interfaces, iconography, websites, and mobile apps. 
-• Created user-flows, wireframes, mockups, and prototypes for various projects. 
+• Created assets, user-flows, wireframes, mockups, and prototypes for various projects. 
 • Developed interactive architecture and creative direction for marketing and sales collateral.  
-• Created assets for use in-house.
+
 
 
 ## Education:
