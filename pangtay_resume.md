@@ -25,8 +25,7 @@ _Front-end Developer & UI/UX Designer_, Fall 2019 - Spring 2020
 _Front-end Developer & UI/UX Designer_, Spring 2019
 
 • Redesigned initial website and designed partner portal. 
-• Designed company initial brand guide.
-• Created user-flows, wireframes, mockups,  and prototypes for various projects. 
+• Created brand guide, user-flows, wireframes, mockups, and prototypes.
 • Designed reusable components in React and Javascript; managed application state using Redux.
   
  **Teaching Fellow at The Grace Hopper Program**  
