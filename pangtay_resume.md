@@ -46,9 +46,10 @@ _UI Designer_, Spring 2015 - Spring 2018
  **Ivie & Associates**  
 _DIGITAL DESIGNER_, Spring 2014 - Spring 2015
 
-• Work varied between internal projects and advertising components for hundreds of films and series licensed from partners. 
+• Designed interfaces, iconography, websites, and mobile apps. 
 • Created user-flows, wireframes, mockups, and prototypes for various projects. 
-• In addition to the redesign, expansion, and management of the Funimation streaming service and online store, other projects included social and paid media content, custom emails, landing page experiences and website skins – among others.
+• Developed interactive architecture and creative direction for marketing and sales collateral.  
+• Created assets for use in-house.
 
 
 ## Education:
